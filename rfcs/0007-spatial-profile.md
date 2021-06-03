@@ -15,7 +15,7 @@ Support a Spatial Data Package profile and geographic resource types as part of 
 
 - A proposed schema and examples: https://github.com/cividi/spatial-data-package
 - A proposed Framework extension to add GeoJSON read and write support: https://github.com/cividi/frictionless-geojson
-- Early alpha of a Create (datapackage-ui) tool with spatial features: https://create.cividi.ch/
+- Early alpha of a Create (datapackage-ui) tool with spatial features: https://create.cividi.ch/ ([source](https://github.com/n0rdlicht/datapackage-ui/tree/spatial-data-package))
 
 # Motivation
 
